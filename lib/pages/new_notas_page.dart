@@ -31,7 +31,7 @@ class _NewNotasPageState extends State<NewNotasPage> {
               TextField(
                 controller: fechaController,
                 decoration: const InputDecoration(
-                  hintText: 'Fecha..',
+                  hintText: 'Fecha dd/mm/aa',
                 ),
               ),
               ElevatedButton(

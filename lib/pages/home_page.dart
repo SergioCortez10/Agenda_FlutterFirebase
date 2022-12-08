@@ -39,7 +39,9 @@ class _HomeState extends State<Home> {
                           color: Colors.red[200],
                         ),
                         onPressed: () {
-                          _eliminarNota(context, snapshot.data?[index]);
+                          print(snapshot.data?[index]['descripcion']);
+                          _eliminarNota(
+                              context, snapshot.data?[index]['descripcion']);
                         },
                       ));
                 },

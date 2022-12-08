@@ -9,6 +9,7 @@ Future<List> getNotas() async {
   QuerySnapshot queryNotas = await collectionReferenceNotas.get();
 
   queryNotas.docs.forEach((documento) {
+    print(documento.data());
     notas.add(documento.data());
   });
 
@@ -21,10 +22,6 @@ Future<void> newNota(String descripcion, String fecha) async {
       .add({"descripcion": descripcion, "fecha": fecha});
 }
 
-Future deleteNota(nota) async {
-  try {
-    await db.collection("notas").doc(nota).delete();
-  } catch (e) {
-    return false;
-  }
+Future<void> deleteNota(String nota) async {
+  await db.collection("notas").doc(nota).delete();
 }
