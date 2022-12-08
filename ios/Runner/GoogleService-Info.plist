@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>599061225619-aa9lmtq3hgqjenrvii7dcikol7gnjuer.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.599061225619-aa9lmtq3hgqjenrvii7dcikol7gnjuer</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKKjp1_eBFO9gTn4e0bW0tJ0Fe0Mi-hYE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>599061225619</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.agendadirebase.agendaFirabase</string>
+	<key>PROJECT_ID</key>
+	<string>agenda-flutter-c868c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>agenda-flutter-c868c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:599061225619:ios:47f9ddc4889d8d72eaed66</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599061225619",
+    "project_id": "agenda-flutter-c868c",
+    "storage_bucket": "agenda-flutter-c868c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599061225619:android:a55654d88f4dda8aeaed66",
+        "android_client_info": {
+          "package_name": "com.agendadirebase.agenda_firabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599061225619-or0i8945d3qlmpeht4obr5kg9eeai2hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM8ggREaZqkrzxMUPanoELZ9F4iP7ansQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599061225619-or0i8945d3qlmpeht4obr5kg9eeai2hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
